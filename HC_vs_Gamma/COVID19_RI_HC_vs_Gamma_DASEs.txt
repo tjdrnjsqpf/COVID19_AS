@@ -1,0 +1,1 @@
+AS_ID	Gene_ID	chr	strand	riExonStart_0base	riExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE	MeanIncLevel_1	MeanIncLevel_2	pvalue	Log2FC	deltaPSI
